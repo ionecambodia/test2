@@ -1,0 +1,25 @@
+video {
+  width: 400px;
+}
+#playlist {
+  width: 400px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+.active a {
+  color: #5db0e6;
+  text-decoration: none;
+}
+li a {
+  color: #eeeedd;
+  background: #333;
+  padding: 12px;
+  display: block;
+}
+li a:hover {
+  text-decoration: none;
+}
